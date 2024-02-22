@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://brilliant-hamster-e82879.netlify.app/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
