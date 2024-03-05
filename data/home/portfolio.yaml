@@ -5,7 +5,7 @@ content:
   - image: "images/brightrooms.png"
     pretitle: "Brightrooms"
     title: "Designed & Developed a custom website"
-    text: "We migrated the skeleton of this website from SquareSpace to the cloud which reduced website running costs from around £25 per month to less than £2 per month. Added SEO and simplified functionality."
+    text: "We migrated the skeleton of this website from SquareSpace to the cloud which reduced website running costs from around £25 per month to less than £2 per month. We also added SEO and simplified the flow the of the page."
 
     buttons: 
       - label: "See live"
