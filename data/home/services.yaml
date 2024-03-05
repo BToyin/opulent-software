@@ -2,26 +2,17 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Our Main Services"
+  text: "We have a range of expertise but above all, we are willing to work with clients to learn and develop together. Get in touch today and let's talk."
   cards:
     - image: "images/services-web-development.png"
-      title: "Website Design & Development"
-      text: "I can design and create your landing page for you convert clicks and customers into business"
-      button:
-        label: "Learn more"
-        url: "#"
+      title: "Web Development"
+      text: "We design websites that perfectly fit you, your business or brand and help convert visitors into paying customers."
 
     - image: "images/services-web-development.png"
-      title: "Web App Development"
-      text: "With my experience I can do a lot fo web application development things you would want"
-      button:
-        label: "Learn more"
-        url: "#"
+      title: "App Development"
+      text: "We have expertise in building various types of applications for Mobile, Web and Desktop platforms"
 
-    - image: "images/services-web-development.png"
-      title: "Mobile Applications"
-      text: "With not much experience in this yet, I am looking to pick up a project or two in this area."
-      button:
-        label: "Learn more"
-        url: "#"
+    # - image: "images/services-web-development.png"
+    #   title: "Mobile Applications"
+    #   text: "An area we are looking to gain more experience in and are willing to work together to learn more about."

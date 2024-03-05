@@ -2,38 +2,31 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/brightrooms.png"
+    pretitle: "Brightrooms"
+    title: "Designed & Developed a custom website"
+    text: "We migrated the skeleton of this website from SquareSpace to the cloud which reduced website running costs from around £25 per month to less than £2 per month. Added SEO and simplified functionality."
 
     buttons: 
       - label: "See live"
-        url: "#"
+        url: "https://www.brightrooms.co.uk/"
 
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/drowning-knight.png"
+    pretitle: "Drowning Knight"
+    title: "Created a Desktop Game"
+    text: "We created a Desktop game called Drowning Knight which is an endless 2D platformer. We utilised the Unity game engine for this project coming up with the concept and implementing the game mechanics (Works On Desktop only)."
 
     buttons: 
       - label: "See live"
-        url: "#"
+        url: "https://play.unity.com/mg/other/drowning-knight"
 
-      - label: "Read more"
-        url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Portfolio Service"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+  #   buttons: 
+  #     - label: "See live"
+  #       url: "#"
 
-      - label: "Read more"
-        url: "#"

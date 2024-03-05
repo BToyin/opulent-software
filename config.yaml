@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Opulent Software Solutions"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "We specialize in providing services to design websites and web, mobile and desktop applications."
   images: 
     - "images/hero-image.png"
 
@@ -34,22 +34,18 @@ params:
 
 menus:
   main:
-    - name: "How we work"
-      url: "/#"
+    - name: "Portfolio"
+      url: "/#portfolio"
       weight: 1
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 2
 
     - name: "Blog"
       url: "/blog"
-      weight: 3
+      weight: 2
 
   buttons:
     - name: "Contact us"
       url: "/#"
-      weight: 4
+      weight: 3
       pre: "btn btn-primary text-light"
 
   footer:

@@ -5,11 +5,11 @@ content:
   title: "Level up your **Business** today"
   text: "Credibility. Brand awareness. Trust. Marketing. Lead generation. Reaching customer. **A good website makes all the difference.**"
 
-  buttonPrimary:
-    label: "How we work"
-    url: "#"
+  # buttonPrimary:
+  #   label: "How we work"
+  #   url: "#"
 
-  buttonSecondary:
-    label: "Let's talk"
-    url: ""
+  # buttonSecondary:
+  #   label: "Let's talk"
+  #   url: ""
 
