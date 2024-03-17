@@ -14,7 +14,7 @@ params:
   images: 
     - "images/hero-image.png"
 
-  logo: "images/logo.png"
+  logo: "images/logo-default.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -49,17 +49,13 @@ menus:
       pre: "btn btn-primary text-light"
 
   footer:
-    - name: "How we work"
-      url: "/#"
-      weight: 2
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
+    - name: "Portfolio"
+      url: "/#portfolio"
+      weight: 1
 
     - name: "Blog"
       url: "/blog"
-      weight: 5
+      weight: 2
 
 taxonomies:
   series: "series"
