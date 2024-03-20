@@ -5,8 +5,7 @@ content:
   - image: "images/brightrooms.png"
     pretitle: "Brightrooms"
     title: "Designed & Developed a custom website"
-    text: "We migrated the skeleton of this website from SquareSpace to the cloud which reduced website running costs from around £25 per month to less than £2 per month. We also added SEO and simplified the flow the of the page."
-
+    text: "We migrated the skeleton of this website from SquareSpace to the cloud which reduced website running costs from around £25 per month to less than £2 per month. We also added SEO and simplified the flow of the page."
     buttons: 
       - label: "See live"
         url: "https://www.brightrooms.co.uk/"
@@ -15,7 +14,6 @@ content:
     pretitle: "Drowning Knight"
     title: "Created a Desktop Game"
     text: "We created a Desktop game called Drowning Knight which is an endless 2D platformer. We utilised the Unity game engine for this project coming up with the concept and implementing the game mechanics (Works On Desktop only)."
-
     buttons: 
       - label: "See live"
         url: "https://play.unity.com/mg/other/drowning-knight"

@@ -2,19 +2,19 @@ baseURL: "https://brilliant-hamster-e82879.netlify.app/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Opulent Software Solutions"
+title: "Opulent Software"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Opulent Software Solutions"
+  title: "Opulent Software"
   description: "We specialize in providing services to design websites and web, mobile and desktop applications."
   images: 
     - "images/hero-image.png"
 
-  logo: "images/logo-default.png"
+  logo: "images/logo1.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -30,7 +30,14 @@ params:
   contact:
     - "baittoyinajani@gmail.com"
 
-  copyright: "© 2024 Opulent Software Solutions All Rights Reserved"
+  copyright: "© 2024 Opulent Software. All Rights Reserved"
+
+  form:
+    formId: "1FAIpQLSca_zlioeFpxxemfVrGleuULOITSxukKQQy4RqMp0PB0JYA2Q"
+    name: "entry.2005620554"
+    email: "entry.1045781291"
+    phoneNumber: "entry.1166974658"
+    message: "entry.839337160"
 
 menus:
   main:
@@ -44,7 +51,7 @@ menus:
 
   buttons:
     - name: "Contact us"
-      url: "/#"
+      url: "/contact"
       weight: 3
       pre: "btn btn-primary text-light"
 
