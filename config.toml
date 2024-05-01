@@ -49,7 +49,7 @@ summarylength = 25
     placeholder_last_name         = "Last Name"
     placeholder_email             = "Email"
     placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
+    placeholder_about_the_project = "About the Project. Approximate budget. When it is needed by."
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
@@ -69,7 +69,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/test1.jpg"
+    background_image      = "images/backgrounds/hero-background.jpg"
     heading               = "Level up your Business Today"
     tagline               = "Make the difference with a great website, software and application"
     primary_button        = "See Our Work"
@@ -105,6 +105,7 @@ summarylength = 25
       address = "Birmingham"
       phone   = "+447469722985"
       email   = "baittoyinajani@gmail.com"
+      linkedin = "https://www.linkedin.com/in/bait-toyin-ajani-338961191/"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
