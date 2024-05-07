@@ -1,6 +1,6 @@
-{{ with .Site.Params.portfolio }}
+{{ with .Site.Params.blog }}
   {{ if .enable }}
-  <section class="site-project" id="project">
+  <section class="site-project" id="recent-posts">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -17,13 +17,13 @@
             </div>
             <div class="site-project-item-content">
               <h3>{{ .Title }}</h3>
-              <a href="{{ .Permalink }}" class="read-more">{{ .Site.Params.portfolio.view_project }}</a>
+              <a href="{{ .Permalink }}" class="read-more">{{ .Site.Params.blog.read_more }}</a>
             </div>
           </div>
         </div>
         {{ end }}
         <div class="col-12 text-center text-lg-left">
-          <a href="portfolio" class="site-project-cta">{{ .Site.Params.portfolio.more_works }}</a>
+          <a href="blog" class="site-project-cta">{{ .more_works }}</a>
         </div>
       </div>
     </div>

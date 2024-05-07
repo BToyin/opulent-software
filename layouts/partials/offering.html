@@ -1,0 +1,27 @@
+{{ with .Site.Data.offering }}
+  {{ if .enable }}
+  <section class="site-offering" id="offering">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h3 class="text-white">{{ .title }}</h2>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div>
+            <img src="{{ .image | absURL }}" alt="Happy Customer image">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="site-offering-paragraph">
+            <p class="bigger">{{ .problem }}</p>
+            <p>{{ .agitate }}</p>
+            <p>{{ .solution }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

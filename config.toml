@@ -36,7 +36,7 @@ summarylength = 25
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Opulent Software | Website Designer | Software engineer | Mobile App Developer"
+  description = "Opulent Software | Website Designer | Software Solutions | Web & Mobile Apps"
   author = "Bait-Toyin Ajani"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
@@ -70,29 +70,33 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Level up your Business Today"
-    tagline               = "Make the difference with a great website, software and application"
-    primary_button        = "See Our Work"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
-    secondary_button_url  = "contact"
+    heading               = "Level up your<br> Business Today"
+    tagline               = "With our bespoke website designs and software solutions based in Ladywood, Birmingham"
+    primary_button        = "Enquire Today!"
+    primary_button_url    = "contact"
+    secondary_button      = "See Our Work"
+    secondary_button_url  = "portfolio"
 
   [params.blog]
     read_more             = "read more"
+    more_works            = "READ SOME MORE OF OUR STUFF"
+    enable                = true
+    title                 = "Read some stuff"
+    subtitle              = "Our blog has some cool words for everyone. Some of it technical and most of it just for entertainment. Have a read."
 
   [params.portfolio]
     enable    = true
     title     = "OUR RECENT WORK"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    subtitle  = "Creating something that makes our clients happy is our first priority. Very close second is crafting it to Look Good & Be Useful."
     view_project = "view project"
-    more_works = "MORE WORKS"
+    more_works = "SEE MORE OF OUR WORK"
     scroll_down = "scroll down"
 
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
+    primary_button      = "Enquire Today!"
     primary_button_url  = "contact"
     secondary_button    = "Not Convinced?"
     secondary_button_url = "portfolio"

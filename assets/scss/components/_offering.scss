@@ -1,0 +1,27 @@
+.site-offering {
+  padding: 85px 0;
+  color: $white;
+  background: $secondary-color;
+  .section-title {
+    margin-bottom: 40px;
+  }
+  @include mobile {
+    padding: 50px 0;
+  }
+  img {
+    max-width: 100%;
+    border-radius: 5px;
+    @include mobile {
+      margin-bottom: 20px;
+    }
+  }
+  p {
+    font-size: 18px;
+    color: $white;
+  }
+  &-paragraph {
+    .bigger {
+      font-size: 20px;
+    }
+  }
+}
