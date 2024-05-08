@@ -79,17 +79,17 @@ summarylength = 25
 
   [params.blog]
     read_more             = "read more"
-    more_works            = "READ SOME MORE OF OUR STUFF"
+    more_works            = "Read some more of our stuff"
     enable                = true
     title                 = "Read some stuff"
     subtitle              = "Our blog has some cool words for everyone. Some of it technical and most of it just for entertainment. Have a read."
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORK"
+    title     = "Our Recent Work"
     subtitle  = "Creating something that makes our clients happy is our first priority. Very close second is crafting it to Look Good & Be Useful."
     view_project = "view project"
-    more_works = "SEE MORE OF OUR WORK"
+    more_works = "See More Of Our Work"
     scroll_down = "scroll down"
 
   [params.call_to_action]

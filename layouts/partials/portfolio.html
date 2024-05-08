@@ -13,10 +13,17 @@
         <div class="col-lg-6 col-md-10 mx-auto">
           <div class="site-project-item">
             <div class="site-project-item-thumb">
+              {{ if .Params.video }}
+              <video controls>
+                <source src="{{ .Params.Video  | absURL }}" type="video/quicktime">
+                Your browser does not support the video tag.
+              </video>
+              {{ else }}
               <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+              {{ end }}
             </div>
             <div class="site-project-item-content">
-              <span>{{ delimit .Params.category ", " }}</span>
+              <span class="text-uppercase">{{ delimit .Params.category ", " }}</span>
               <h3>{{ .Title }}</h3>
               <a href="{{ .Permalink }}" class="read-more">{{ .Site.Params.portfolio.view_project }}</a>
             </div>

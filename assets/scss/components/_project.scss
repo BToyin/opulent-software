@@ -1,12 +1,18 @@
-.site-project{
+.site-project {
   padding: 120px 0;
   overflow: hidden;
-  &-item{
+  &-item {
     position: relative;
     margin-bottom: 30px;
     transition: all 0.3s ease-in;
-    &-thumb{
-      img{
+    &-thumb {
+      max-height: 80vh;
+      overflow-y: auto;
+      img {
+        width: 100%;
+      }
+      video {
+        height: 80vh;
         width: 100%;
       }
     }
@@ -173,7 +179,7 @@
   }
   &-single{
     &-section{
-      padding: 250px 0 100px;
+      padding: 130px 0 100px;
       @include tablet{
         padding: 100px 0;
       }
