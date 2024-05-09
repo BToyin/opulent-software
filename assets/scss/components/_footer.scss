@@ -1,6 +1,9 @@
 .site-footer{
   background: $secondary-color;
   padding: 100px 0;
+  .container {
+    text-align: center;
+  }
   &-logo{
     margin-bottom: 50px;
     @include mobile{
