@@ -15,7 +15,7 @@
       <div class="col-lg-7 ml-auto">
         <div class="site-contact-form">
           <h4>{{ .Params.form_heading }}</h4>
-          <form id="contact-form" action="{{ .Params.thank_you | absURL}}" method="post" name="contact_form" netlify-honeypot="bot-field" netlify>
+          <form id="contact-form" action="/thank-you" method="post" name="contact_form" netlify-honeypot="bot-field" netlify>
             <div class="row">
               <div class="col-lg-6">
                 <input type="text" class="form-control" name="first-name" id="first-name" placeholder="{{ .Site.Params.contactForm.placeholder_first_name }}" required>
