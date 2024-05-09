@@ -6,11 +6,16 @@
         <h1 class="site-contact-title">
           {{ .Params.heading | safeHTML }}
         </h1>
+        {{ if eq .Params.thankyou "true" }}
+        <div id="thank-you-message">
+          Thank you for contacting us!
+        </div>
+        {{ end }}
       </div>
-      <div class="col-lg-6 ml-auto">
+      <div class="col-lg-7 ml-auto">
         <div class="site-contact-form">
           <h4>{{ .Params.form_heading }}</h4>
-          <form id="contact-form" action="/thank-you" method="post" name="contact_form" netlify-honeypot="bot-field" netlify>
+          <form id="contact-form" action="{{ .Params.thank_you | absURL}}" method="post" name="contact_form" netlify-honeypot="bot-field" netlify>
             <div class="row">
               <div class="col-lg-6">
                 <input type="text" class="form-control" name="first-name" id="first-name" placeholder="{{ .Site.Params.contactForm.placeholder_first_name }}" required>
@@ -32,10 +37,10 @@
                 </div>
               </div>
               <div class="col-12">
-                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="{{ .Site.Params.contactForm.placeholder_about_the_project }}"></textarea>
+                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="{{ .Site.Params.contactForm.placeholder_about_the_project }}" required></textarea>
               </div>
               <div class="col-12">
-                <button formtarget="_blank" type="submit" class="btn btn-primary" id="contact-form-button">
+                <button type="submit" class="btn btn-primary" id="contact-form-button">
                   <span class="btn-area">
                     <span data-text="{{ .Site.Params.contactForm.send_message }}">
                       {{ .Site.Params.contactForm.send_message }}
