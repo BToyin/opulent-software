@@ -1,5 +1,5 @@
 .site-project {
-  padding: 120px 0;
+  padding: 70px 0;
   overflow: hidden;
   &-item {
     position: relative;
@@ -21,7 +21,7 @@
       position: absolute;
       background: $third-color;
       width: 100%;
-      padding: 45px 50px;
+      padding: 25px 50px;
       bottom: 0;
       transition: all .3s $site-ease;
       @include tablet{
@@ -180,9 +180,9 @@
   }
   &-single{
     &-section{
-      padding: 130px 0 100px;
+      padding: 130px 0 0px;
       @include tablet{
-        padding: 100px 0;
+        padding: 100px 0 0 0;
       }
     }
     h1{

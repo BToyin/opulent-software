@@ -114,10 +114,10 @@ summarylength = 25
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "About"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "Portfolio"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
           name = "Blog"

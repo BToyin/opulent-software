@@ -8,7 +8,7 @@
           <p class="site-footer-widget-description">
 	    {{ if .address }}
               {{ .address | safeHTML }}
-	      <br>
+	            <br>
 	    {{ end }}
 	    {{ if .phone }}
               <a href="tel:{{ .phone }}">{{ .phone }}</a>
@@ -16,8 +16,11 @@
 	    {{ end }}
 	    {{ if .email }}
               <a href="mailto:{{ .email }}">{{ .email }}</a>
+              <br>
 	    {{ end }}
-              <a href="{{ .linkedin }}" target="_blank">{{ .name }}<i class="fa fa-2x fa-linkedin"></i>LINKEDIN</a>
+              <a href="{{ .linkedin }}" target="_blank">{{ .name }}
+                <img src="{{ "images/linkedin.svg" | absURL }}" alt="LinkedIn" style="height: 35px;">
+              </a>
           </p>
         </div>
       </div>
@@ -54,7 +57,7 @@
       </div>
       <div class="col-12">
         <div class="site-footer-copyright">
-          <p>Copyright © {{ dateFormat "2006" now }} - All Rights Reserved by <a href="https://opulentsoftware.co.uk/" target="_blank">Opulent Software</a> </p>
+          <p>Copyright © {{ dateFormat "2006" now }} - All Rights Reserved by Opulent Software</p>
         </div>
       </div>
     </div>
