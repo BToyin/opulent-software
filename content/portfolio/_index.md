@@ -1,4 +1,4 @@
 ---
-title: "Opulent Software | Portfolio"
-heading: "We build better <span>products</span> to help our clients build better <span>companies</span>"
+title: "Portfolio | Opulent Software"
+heading: "We build better <span>products</span> to help our clients build better <span>businesses</span>"
 ---

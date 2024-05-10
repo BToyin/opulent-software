@@ -3,7 +3,7 @@ title: "Drowning Knight"
 date: 2023-10-15
 type: portfolio
 video: "videos/drowning-knight.mov"
-category: ["2D Platformer Game", "Desktop Game"]
+category: ["Game Development", "Desktop Game"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
