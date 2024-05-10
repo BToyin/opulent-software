@@ -180,7 +180,7 @@
   }
   &-single{
     &-section{
-      padding: 130px 0 0px;
+      padding: 130px 0px 40px;
       @include tablet{
         padding: 100px 0 0 0;
       }
@@ -210,8 +210,8 @@
         margin-bottom: 30px;
       }
     }
-    &-action{
-      a{
+    &-action {
+      a {
         position: relative;
         font-size: 24px;
         font-weight: 300;
@@ -254,10 +254,18 @@
           }
         }
       }
-      img{
+      .prev {
+        justify-content: flex-start;
+      }
+      .next-button {
         filter: invert(1);
         transform: rotate(90deg);
         margin-left: 30px;
+      }
+      .prev-button {
+        filter: invert(1);
+        transform: rotate(270deg);
+        margin-right: 30px;
       }
     }
   }

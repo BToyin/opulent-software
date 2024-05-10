@@ -16,18 +16,28 @@
             <img src="{{ . | absURL }}" alt="project image">
             {{ end }}
           </div>
-          {{ if .NextInSection }}
           <div class="site-project-single-action">
-            <a href="{{.NextInSection.Permalink}}">
+            {{ if .NextInSection }}
+            <a class="next" href="{{.NextInSection.Permalink}}">
               <span class="link-area">
                 <span data-text="Next Project">
                   Next Project
                 </span>
               </span>
-              <img src="{{ "images/to-top.svg" | absURL }}" alt="next project">
+              <img class="next-button" src="{{ "images/to-top.svg" | absURL }}" alt="next project">
             </a>
+            {{ end }}
+            {{ if .PrevInSection }}
+            <a class="prev" href="{{.PrevInSection.Permalink}}">
+              <img class="prev-button" src="{{ "images/to-top.svg" | absURL }}" alt="previous project">
+              <span class="link-area">
+                <span data-text="Previous Project">
+                  Previous Project
+                </span>
+              </span>
+            </a>
+            {{ end }}
           </div>
-          {{ end }}
         </div>
       </div>
     </div>

@@ -7,9 +7,31 @@
         <article class="site-blog-details">
           <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> by <span>{{ .Params.author }}</span></p>
           <h2 class="blog-title">{{ .Title }}</h2>
-          <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
+          <img class="feature-image" src="{{ .Params.image | absURL }}" alt="blog-feature-image">
           {{ .Content }}
         </article>
+          <div class="site-project-single-action">
+            {{ if .NextInSection }}
+            <a class="next" href="{{.NextInSection.Permalink}}">
+              <span class="link-area">
+                <span data-text="Next Project">
+                  Next Post
+                </span>
+              </span>
+              <img class="next-button" src="{{ "images/to-top.svg" | absURL }}" alt="next project">
+            </a>
+            {{ end }}
+            {{ if .PrevInSection }}
+            <a class="prev" href="{{.PrevInSection.Permalink}}">
+              <img class="prev-button" src="{{ "images/to-top.svg" | absURL }}" alt="previous project">
+              <span class="link-area">
+                <span data-text="Previous Project">
+                  Previous Post
+                </span>
+              </span>
+            </a>
+            {{ end }}
+          </div>
       </div>
     </div>
   </div>
