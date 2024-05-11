@@ -1,36 +1,36 @@
 ---
 title: "How to: Purchasing a Domain"
 date: 2024-05-10
-image: images/blog/blog-post-04.jpg
-author: Toyin Ajani
+image: images/blog/blog-post-1.png
+author: Domain Toyin
 type: blog
 ---
-### Black Lines brand identity, by & Smith
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Follow this link https://porkbun.com/ (or any other domain registration service such as WIX, squarespace, IONOS)
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+Search for the domain you want to register - for example this could be example.com
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+If the domain you want is not available, Try variations until you find one that is available. For example, if you want superdomain.com, try:
+- superdomain.co.uk
+- super-domain.com
+- super-domain.co.uk
+- toyinsuperdomain.com
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+![blog-details-image-01](/images/blog/post-01/1.png)
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
+Once you find a domain that exists and is available, you can add it to your basket and check out
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+![blog-details-image-02](/images/blog/post-01/2.png)
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
+Now you will reach this page, where to continue you will have to create an account. 
 
+![blog-details-image-03](/images/blog/post-01/3.png)
 
-> Paul Rand, graphic designer
+- Fill out the sign-up form and create/register an account. 
+    - Use valid contact details to do this
+- After creating the account, you'll be prompted for some billing details. 
+- Complete the steps and checkout
 
+Voila! you have now rented your new brand spanking domain!
+
+If you are lucky enough to be working with me, you can now hand over your domain login details and I can hook your domain up to your website.
