@@ -1,0 +1,39 @@
+{{ with .Site.Data.newsletter }}
+  {{ if .enable }}
+  <section class="site-newsletter" id="newsletter">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2 class="text-white text-center">{{ .heading }}</h2>
+          </div>
+          <p class="text-white text-center">
+            {{ .subheading }}
+          </p>
+          <form id="subscription-form" action="/thank-you" method="post" name="subscription_form" netlify-honeypot="bot-field" netlify>
+            <div class="row">
+              <div class="col-sm-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your email" required>
+              </div>
+              <div class="col-sm-3">
+                <button type="submit" class="btn btn-primary" id="subscription-form-button">
+                  <span class="btn-area">
+                    <span data-text="{{ .Site.Params.contactForm.send_message }}">
+                      Subscribe
+                    </span>
+                  </span>
+                </button>
+              </div>
+              <p class="d-none">
+                <label>
+                  Not to be filled out by humans: <input name="bot-field" />
+                </label>
+              </p>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

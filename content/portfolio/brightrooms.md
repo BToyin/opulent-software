@@ -3,7 +3,7 @@ title: "Brightrooms"
 date: 2023-11-23
 type: portfolio
 image: "images/projects/brightrooms.png"
-category: ["Website Migration", "Cost Reduction"]
+category: ["Cloud Migration", "Cost Reduction"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 

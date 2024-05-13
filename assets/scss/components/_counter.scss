@@ -1,7 +1,7 @@
 .site-counter{
   padding: 85px 0;
   color: $white;
-  background: $secondary-color;
+  background: rgba($color: $secondary-color, $alpha: 1);
   .section-title{
     margin-bottom: 40px;
   }

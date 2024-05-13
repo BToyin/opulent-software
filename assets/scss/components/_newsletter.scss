@@ -1,0 +1,18 @@
+.site-newsletter{
+  padding: 60px 0;
+  color: $white;
+  background: rgba($color: $secondary-color, $alpha: 0.7);
+  .section-title{
+    margin-bottom: 10px;
+    h2 {
+      font-size: large;
+      font-weight: bold;
+    }
+  }
+  @include mobile{
+    padding: 50px 0;
+  }
+  button{ 
+    padding: 12px 25px
+  }
+}
