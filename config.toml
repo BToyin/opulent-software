@@ -39,7 +39,7 @@ summarylength = 25
   description = "Opulent Software | Website Designer | Software Solutions | Web & Mobile Apps"
   author = "Bait-Toyin Ajani"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "G-MSRD6H7JCM"
   # We're using formspree.io for form handling, paste your formspree url below
   fabform  = "https://fabform.io/f/USAg2Jl"
 
