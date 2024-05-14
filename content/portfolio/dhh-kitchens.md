@@ -4,24 +4,13 @@ date: 2024-04-25
 type: portfolio
 image: "images/projects/dhhkitchens.png"
 category: ["Website Design & Development", "Hosting", "Domain Transfer"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/dhh-kitchens-website-details.png"]
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+DHH Kitchens stands as a reputable local family-operated business specializing in kitchen transformations. Based in Sutton Coldfield, they specialize in installing top-tier bespoke kitchens at competitive rates. With an extensive 35+ years of collective experience, the timing was ripe for this dynamic father-son team to establish an online presence that truly reflects their brand ethos.
 
-The watch has the following features:
+Upon reaching out to our team, an engaging discovery call ensued, followed by the provision of existing marketing materials and reference sites. From there, we embarked on the journey of creating a website that showcases their stellar craftsmanship while inviting potential clients to engage further.
 
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
+Championing a vibrant palette with a bold pink accent color, our task demanded creativity to strike a balance between playfulness and professionalism. Within a swift 4-week timeframe, we brought their vision to life, delivering the DHH Kitchens website. Leveraging bespoke development and opting for Netlify hosting over conventional website builders, we ensured minimal operational costs at just £10 per year for the domain.
 
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
-
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
-
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
-
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
-
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
-
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
-
+The website looks and feels fantastic but our solutions weren't limited to just aesthetics; we implemented practical features such as sticky footers and headers to streamline customer conversion contact forms for swift communication, and optimized the site for mobile responsiveness, ensuring an exceptional user experience across all devices. Moreover, our expertise extended to implementing SEO and DNS strategies, amplifying DHH Kitchens' online visibility and bolstering their search engine rankings on platforms like Google.

@@ -4,7 +4,7 @@ date: 2024-04-28
 type: portfolio
 image: "images/projects/tigeraesthetics.png"
 category: ["Website Design & Development", "Hosting", "Domain Aquisition"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/tiger-aesthetics-website-screens.png"]
 ---
 
 Tiger Aesthetics, nestled in Sutton Coldfield, specializes in Eyelash Extension Training, Lash Extensions, Semi Permanent Make-up, and Eyebrow Treatments.

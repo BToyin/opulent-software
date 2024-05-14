@@ -9,8 +9,14 @@
       font-weight: bold;
     }
   }
+  .col-sm-9 {
+    left: 15%;
+  }
   @include mobile{
     padding: 50px 0;
+    .col-sm-9 {
+      left: 0;
+    }
   }
   button{ 
     padding: 12px 25px
