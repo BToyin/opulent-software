@@ -2,8 +2,6 @@ baseURL       = "https://opulentsoftware.co.uk/"
 languageCode  = "en-us"
 title         = "Opulent Software | Ladywood - Birmingham | Website Designer | Software Developer | Mobile Developer"
 summarylength = 25
-# Google Analytics
-googleAnalytics = "G-MSRD6H7JCM"
 
 # Site Menus
 [menu]
