@@ -1,12 +1,12 @@
 ---
 title: "Brightrooms"
 date: 2023-11-23
+btnUrl: "https://brightrooms.co.uk"
 type: portfolio
 image: "images/projects/brightrooms.png"
 category: ["Cloud Migration", "Cost Reduction"]
 project_images: ["images/projects/brightrooms-screens.png"]
 ---
-
 
 Brightrooms is a property management specialist based in Birmingham. With a focus on integrity, communication, and compassion, they add value to tenants, landlords, and investors by taking the hassle out of property management.
 

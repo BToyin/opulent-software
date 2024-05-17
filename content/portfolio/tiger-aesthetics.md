@@ -1,5 +1,6 @@
 ---
 title: "Tiger Aesthetics"
+btnUrl: "https://www.trixietigeraesthetics.com/"
 date: 2024-04-28
 type: portfolio
 image: "images/projects/tigeraesthetics.png"
