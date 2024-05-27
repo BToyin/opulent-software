@@ -30,12 +30,7 @@
         <div class="site-project-item">
           <div class="site-project-item-thumb">
             {{ if .Params.video }}
-            <video controls>
-              <source src="{{ .Params.Video  | absURL }}" type="video/quicktime">
-              <source src="{{ .Params.Video  | absURL }}" type="video/mp4">
-              <source src="{{ .Params.Video  | absURL }}" type="video/webm">
-              Your browser does not support the video tag.
-            </video>
+            <iframe src="https://www.youtube.com/watch?v=xFPO4tuctlA"></iframe>
             {{ else }}
             <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
             {{ end }}
