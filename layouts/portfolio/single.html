@@ -16,7 +16,7 @@
           </div>
           <div class="site-project-single-image">
             {{ if .Params.video }}
-            <iframe src="https://www.youtube.com/watch?v=xFPO4tuctlA"></iframe>
+            <iframe src="https://www.youtube.com/embed/xFPO4tuctlA"></iframe>
             {{ else }}
               {{ range .Params.project_images }}
               <img src="{{ . | absURL }}" alt="project image">
