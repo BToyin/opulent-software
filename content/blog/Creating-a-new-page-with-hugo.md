@@ -1,6 +1,6 @@
 ---
 title: Creating a new page with Hugo
-date: 2024-05-31T08:35:00.000Z
+date: 2024-05-31
 author: Hugo Toyin
 image: /images/blog/creating-a-hugo-theme-from-scratch.jpg
 type: blog
