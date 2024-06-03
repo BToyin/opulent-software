@@ -2,19 +2,19 @@ enable  : true
 title   : "what people say about us"
 subtitle: "What clients say after having worked with us."
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
+  - thumb : "images/testimonial/male-thumb.jpg"
     name  : "Jaffar S."
     company_position: "Brightrooms"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "We highly recommend Opulent Software for anyone looking for a quality web design service. Their team was professional and attentive to every detail we required. Communication was great throughout the design process. I’m sure we’ll be working together again soon." 
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
+  - thumb : "images/testimonial/male-thumb.jpg"
     name  : "Harry H."
     company_position: "DHH Kitchens"
     quote : > 
             "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
 
-  - thumb : "images/testimonial/user-thumb-three.jpg"
+  - thumb : "images/testimonial/female-thumb.jpg"
     name  : "Trixie T."
     company_position: "Tiger Aesthetics"
     quote : > 
