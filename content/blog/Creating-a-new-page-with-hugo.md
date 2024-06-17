@@ -1,5 +1,5 @@
 ---
-title: Creating a new page with Hugo
+title: "How to: Creating a new page with Hugo"
 date: 2024-05-31
 author: Hugo Toyin
 image: /images/blog/creating-a-hugo-theme-from-scratch.jpg
@@ -63,3 +63,7 @@ Now go forth and create some pages with custom template renders.
 **N.B: I have personally found that placing html files directly in the layouts folder does not apply them in which case use 2 or 3 instead.**
 
 **Note:** When creating a new page by using method 2, you may find a file call `list.html` which is used as the template file for any subpages of the new page. E.g., Your new blog page at `/blog` could have many blog posts sitting in subpages and they would use all use the html template at `list.html`.
+
+Peace and Blessings
+
+Toyin
