@@ -57,7 +57,7 @@ Hugo has a built in template for google analytics so we can simply use this. In 
 In your config.toml, just add your GA4 measurement ID. This needs to be added at the top level
 
 ```
-googleAnalytics = "G-MSRD6H7JCM"
+   googleAnalytics = "G-MSRD6H7JCM"
 ```
 - Ensure this is added at the **top-level** this means it should not sit under params or anything else. Easiest is to just add it underneath the baseUrl
 - Ensure you spell the *googleAnalytics* correctly - otherwise it won't function as expected
