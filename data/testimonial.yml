@@ -8,14 +8,26 @@ testimonial_item :
     quote : > 
             "We highly recommend Opulent Software for anyone looking for a quality web design service. Their team was professional and attentive to every detail we required. Communication was great throughout the design process. I’m sure we’ll be working together again soon." 
 
-  - thumb : "images/testimonial/male-thumb.jpg"
-    name  : "Harry H."
-    company_position: "DHH Kitchens"
-    quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
-
   - thumb : "images/testimonial/female-thumb.jpg"
     name  : "Trixie T."
     company_position: "Tiger Aesthetics"
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "Toyin has designed my perfect website. He was professional throughout and provided a great service in a timely manner. He was able to do everything I had suggested whilst adding his own touches, which I really appreciated. I would highly recommend Toyin if you are thinking about creating a website." 
+
+  - thumb : "images/testimonial/male-thumb.jpg"
+    name  : "Junior A."
+    company_position: ""
+    quote : > 
+            "I needed a website for my e-commerce business and didn’t know the first thing about getting it started. Opulent Software managed to ensure my business hits the ground running with clear communication, creativity and an obvious talent for web development. They were just as motivated as me to bring my vision to life which was extremely encouraging and made them very easy and fun to work with." 
+
+  - thumb : "images/testimonial/female-thumb.jpg"
+    name  : "Irebomi O."
+    company_position: ""
+    quote : > 
+            "Excellent website design service, Bait seems extremely knowledgable about the work both technically and in terms of design. Customer service also excellent and personable which provides a lot of confidence in terms of knowing you are getting value for money, highly highly recommend 😊" 
+
+  - thumb : "images/testimonial/male-thumb.jpg"
+    name  : "Besmir B."
+    company_position: ""
+    quote : > 
+            "I have used a variety of different sources to help create/update my business page. This was by far the best! Could not recommend enough! Thank You to the whole Team!" 
