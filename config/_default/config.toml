@@ -107,7 +107,7 @@ summarylength = 25
       title   = "Contact Info"
       address = "Birmingham"
       phone   = "+447469722985"
-      email   = "baittoyinajani@gmail.com"
+      email   = "toyin.ajani@opulentsoftware.co.uk"
       linkedin = "https://www.linkedin.com/in/bait-toyin-ajani-338961191/"
       # Footer Sitemap
       [params.footer.sitemap]
