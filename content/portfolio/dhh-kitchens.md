@@ -1,6 +1,5 @@
 ---
 title: "DHH Kitchens"
-btnUrl: "https://www.dhhkitchens.com/"
 date: 2024-04-25
 type: portfolio
 image: "images/projects/dhhkitchens.png"

@@ -10,9 +10,11 @@
           </h1>
           <div class="site-project-single-description">
             {{ .Content }}
+            {{ if .Params.BtnUrl }}
             <a class="btn btn-primary btn-sm-rounded" target="_blank" href="{{ .Params.BtnUrl }}">
               See Live
             </a>
+            {{ end }}
           </div>
           <div class="site-project-single-image">
             {{ if .Params.video }}
