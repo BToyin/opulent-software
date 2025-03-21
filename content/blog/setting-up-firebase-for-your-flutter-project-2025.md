@@ -14,11 +14,11 @@ As prerequisites you will require the following:
 * flutter app to add firebase to + Flutter SDK installed on machine
 * A google account to create firebase project.
 
-#### **Creating a Firebase Project:**
+#### Creating a Firebase Project:
 
 Firstly, go [here](https://firebase.google.com/) and ‘Get Started’. Follow steps to sign in and create a new firebase project. You can name this whatever your flutter app is named. Follow the setup steps, allowing the defaults and create your project. 
 
-#### **Adding Firebase to your Flutter App:**
+#### Adding Firebase to your Flutter App:
 
 After creating the firebase project, you will need to add that firebase project as the backend for your flutter app. On Firebase Console, click Flutter icon for adding an App
 
@@ -65,7 +65,7 @@ void main() async {
 
 With these things in place, you should be able to just run your flutter app.
 
-#### **Dealing with Errors when running Flutter app**
+#### Dealing with Errors when running Flutter app
 
 After running through the initialisation steps, It’s probably a good idea to just run your flutter app on the available devices to make sure everything still works. Hopefully you get no errors but a common one you may come across when attempting to run on MacOs or IOS (iphone simulator) is:
 
@@ -77,8 +77,8 @@ Error running pod install`
 
 Just a couple of steps is needed to resolve this (from my experience)
 
-1. in the root of your project, delete the` /ios/Podfile.lock`
-2. Then in `/ios/Podfile `change the target platform `13.0 `- If it’s commented out then uncomment and change to `13.0`. 
+1. in the root of your project, delete the`/ios/Podfile.lock`
+2. Then in `/ios/Podfile`change the target platform `13.0`- If it’s commented out then uncomment and change to `13.0`. 
 3. Now terminal, cd into `/ios` and run `pod install --repo-update`
 4. This should resolve this error.
 
