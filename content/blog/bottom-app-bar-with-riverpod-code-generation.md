@@ -1,5 +1,5 @@
 ---
-title: Bottom App Bar with Riverpod Code Generation
+title: "Flutter: Bottom App Bar with Riverpod Code Generation"
 date: 2025-04-22T20:07:00.000Z
 author: Toyin A.
 image: /images/blog/hqdefault.jpg
