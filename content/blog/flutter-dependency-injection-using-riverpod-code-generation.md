@@ -1,6 +1,6 @@
 ---
 title: "Flutter: Dependency injection using riverpod code generation"
-date: 2025-04-27T08:40:00.000Z
+date: 2025-04-29T09:56:00.000Z
 author: Toyin A.
 image: /images/blog/dependency-injection.jpg
 type: blog
