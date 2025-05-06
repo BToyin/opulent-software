@@ -1,11 +1,11 @@
 ---
 title: "Flutter: Dependency injection using riverpod code generation"
-date: 2025-04-29T09:56:00.000Z
+date: 2025-05-06T09:56:00.000Z
 author: Toyin A.
 image: /images/blog/dependency-injection.jpg
 type: blog
 ---
-This short tutorial post is an adaptation of <https://medium.com/@ziad.w.khedr/dependency-injection-in-flutter-using-riverpod-1118b7784893> so please check that out for the original content
+This short tutorial post is an adaptation of [this article](https://medium.com/@ziad.w.khedr/dependency-injection-in-flutter-using-riverpod-1118b7784893) so please check that out for the original content
 
 The steps followed are almost identical with the only major difference being that in this article I will describe the steps using riverpod code generation (i.e. using the `@riverpod` annotation) rather than manually creating providers. 
 
